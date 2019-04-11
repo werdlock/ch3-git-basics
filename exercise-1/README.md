@@ -16,3 +16,7 @@ In this exercise you'll practice using git to clone and edit repositories, as wi
 7. Push changes up to GitHub, and view them in your web browser. Make sure you are looking at the repository under _your_ account!
 
 ---
+# What I had for Breakfast Today
+1. Cinnamon Toast Crunch
+2. Milk
+3. A banana
